@@ -17,7 +17,7 @@ Does it work on a photo of the same person taken 20 years ago?
 
 ![Result7](result_images/result7.png) <br>Cole Sprouse identified.<br>
 ![Result4](result_images/result4.png) <br>Cole's twin brother is identified as Cole <br>
-![Result5](result_images/result5.png) <br>Elon Musk, check!<br>
+![Result5](result_images/result5.png) <br>Elon Musk, check :white_check_mark:<br>
 ![Result6](result_images/result6.png) <br>Twins or Clones?<br>
 ![Result1](result_images/result1.png) <br>Sunglasses don't work. This was expected.<br>
 ![Result2](result_images/result2.png) <br>Young Oprah is identified without incident.<br>
