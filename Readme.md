@@ -6,4 +6,4 @@ In this project: we use the image recognition functionality in the 'face-recogni
 **Steps:** <br>
 1) Capture the face encodings of Known images. <br>
 2) Capture the face encodings of the Unknown images <br>
-3) Compare the two and see if known image encodings are present in the images with unknown faces.
+3) Compare the two and check whether the known image encodings are similar to those of images with unknown faces.
