@@ -10,7 +10,7 @@ In this project: we use the image recognition functionality in the 'face-recogni
 2) Capture the face encodings of the Unknown images. <br>
 3) Compare the two and check whether the known image encodings are similar to those of images with unknown faces.
 
-I played around with the images a little bit. I tried to test if OpenCV correctly distinguishes between identical twins. What about with Sunglasses on? 
+I played around with the images a little bit. I tried to test if the library correctly distinguishes between identical twins. What about with Sunglasses on? 
 Does it work on a photo of the same person taken 20 years ago?
 
 ### Result images:
