@@ -1,13 +1,13 @@
 ## Face Recognition in images
 
-**Face Identification:** Spotting a human face in an image <br>
+**Face Identification:** Spotting a human face in an image. <br>
 **Face Recognition:** Determining which individual the face belongs to. 
 
-In this project: we use the image recognition functionality in the 'face-recognition' python library
+In this project: we use the image recognition functionality in the 'face-recognition' python library.
 
 **Steps:** <br>
 1) Capture the face encodings of Known images. <br>
-2) Capture the face encodings of the Unknown images <br>
+2) Capture the face encodings of the Unknown images. <br>
 3) Compare the two and check whether the known image encodings are similar to those of images with unknown faces.
 
 I played around with the images a little bit. I tried to test if OpenCV correctly distinguishes between identical twins. What about with Sunglasses on? 
