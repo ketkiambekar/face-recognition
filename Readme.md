@@ -25,3 +25,9 @@ Does it work on a photo of the same person taken 20 years ago?
 
 I played around with the Tolerance setting (which adjusts the strictness of face ID).
 As is commanly suggested, 0.6 was indeed the best setting. Even on changing Tolerance the setting to a stricter value (0.5, 0.4 and so on), the library was not able to distinguish between the twins, and the results were way off in general. 
+
+
+
+#### Instructions for running
+1) Upload the images.zip to in the files section in the leftmost pane.
+2) Run all cells by clicking "Runtime >> Run" all from the file menu.
