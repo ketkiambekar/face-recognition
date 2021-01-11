@@ -29,5 +29,6 @@ As is commanly suggested, 0.6 was indeed the best setting. Even on changing Tole
 
 
 #### Instructions for running
+1) Open the 'face-recognition.ipynb' in google colab by clicking the 'Open in Colab' badge.
 1) Upload the images.zip to in the files section in the leftmost pane.
 2) Run all cells by clicking "Runtime >> Run" all from the file menu.
