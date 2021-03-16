@@ -3,7 +3,7 @@
 **Face Identification:** Spotting a human face in an image. <br>
 **Face Recognition:** Determining which individual the face belongs to. 
 
-In this project: we use the image recognition functionality in the 'face-recognition' python library.
+TL;DR: In this project, we use the image recognition functionality in the 'face-recognition' python library. We feed an unknown facial image to program and it learns to identify the face in other images.
 
 **Steps:** <br>
 1) Capture the face encodings of Known images. <br>
